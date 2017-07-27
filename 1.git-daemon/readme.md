@@ -1,7 +1,7 @@
-Serve repos using the git daemon
---------------------------------
+Serving public read/write repos using `git daemon`
+==================================================
 
-This example sets up the git daemon serving `repo1`.
+Here we set up the git daemon, serving `repo1`.
 Initially empty, anybody can clone, push, and pull the repo.
 
 https://git-scm.com/book/en/v2/Git-on-the-Server-Git-Daemon
